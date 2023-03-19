@@ -1,3 +1,2 @@
 # bootdev-bookbot
-Lorem ipsum
-Lorem Ipsum - Some random info about this project
+Bookbot is my first git project!
